@@ -1,2 +1,2 @@
 # descriptive_statistics
-Repository ini berisi file jupyter notebook tentang perhitungan yang ada di statistika deskriptif
+This repository contains jupyter notebook files about calculations in descriptive statistics
